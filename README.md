@@ -5,7 +5,8 @@
 I'm Shivansh Srivastava, Student at Vellore Institute Of Technology, Vellore. I am a Full Stack Web Developer & Cloud Evangelist☁ 
 
 ## 🧐 About
-- 🤠 Google Summer Of Code 2021 Mentor, Google Season of Docs 2020 Mentor at Circuitverse, Student Code-In Mentor, Mentor at Intel.
+- 💼 SDE Intern @Paytm Money
+- 🤠 Google Summer Of Code 2021 Mentor, Google Season of Docs 2020 Mentor @Circuitverse, Student Code-In Mentor, Mentor at Intel.
 - 😄 Intel AI Scholar, Nutanix Hybrid Cloud Scholar, Microsoft Azure Scholar, 2 X Openclassrooms FrontEnd Scholar.
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - ⚡ Skilled in Django, Flask, Python, React, Angular, Vue, GCP, Ruby and learning new technologies to create highly-skilled tech products.
